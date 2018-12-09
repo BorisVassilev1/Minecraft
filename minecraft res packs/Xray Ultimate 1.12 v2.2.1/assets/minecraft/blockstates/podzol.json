@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "snowy=false": { "model": "xray/podzol" },
+        "snowy=true": { "model": "xray/podzol" }
+    }
+}

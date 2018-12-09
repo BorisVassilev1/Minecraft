@@ -1,0 +1,19 @@
+name: ChatUtils
+version: 1.0
+author: CDnoMlqko
+main: org.CDnoMlqko.ChatUtils.Main
+description: My spigot chat plugin
+
+commands:
+  tpa:
+   description: sends a request for a teleportation!
+  tpaccept:
+   description: accepts a teleportation request sent by a tpa command!
+  tpadecline:
+   description: declines a teleportation request sent by a tpa command!
+  pay:
+   description: pay an amount of money to a player!
+  givemoney:
+   description: gives an amount of money to a player!
+  givemagicdust:
+   description: gives an amount of magic dust to a player!

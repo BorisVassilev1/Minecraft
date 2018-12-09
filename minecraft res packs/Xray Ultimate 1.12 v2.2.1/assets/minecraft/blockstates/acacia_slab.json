@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "xray/half_slab_acacia" },
+        "half=top": { "model": "xray/upper_slab_acacia" }
+    }
+}

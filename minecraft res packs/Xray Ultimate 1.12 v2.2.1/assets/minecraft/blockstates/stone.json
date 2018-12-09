@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "xray/stone" },
+            { "model": "xray/stone_mirrored" },
+            { "model": "xray/stone", "y": 180 },
+            { "model": "xray/stone_mirrored", "y": 180 }
+        ]
+    }
+}

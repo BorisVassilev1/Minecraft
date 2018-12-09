@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "snowy=false": { "model": "xray/mycelium" },
+        "snowy=true": { "model": "xray/grass_snowed" }
+    }
+}

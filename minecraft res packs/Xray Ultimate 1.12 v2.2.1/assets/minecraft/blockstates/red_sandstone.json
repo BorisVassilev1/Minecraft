@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "xray/red_sandstone_normal" }
+    }
+}

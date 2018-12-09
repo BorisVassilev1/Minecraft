@@ -1,0 +1,74 @@
+package org.CDnoMlqko.ChatUtils.ui;
+
+import org.CDnoMlqko.ChatUtils.utils.Utils;
+import org.bukkit.Bukkit;
+import org.bukkit.Material;
+import org.bukkit.entity.Player;
+import org.bukkit.inventory.Inventory;
+import org.bukkit.inventory.ItemStack;
+
+public class CustomEnchantmentTableGui {
+	
+	public static Inventory inv;
+	public static String inventory_name;
+	public static int inv_rows = 5 * 9;
+	
+	public static void Initialize()
+	{
+		inventory_name = Utils.chat("TestGui");
+		
+		inv = Bukkit.createInventory(null, inv_rows);
+	}
+	
+	public static Inventory GUI(Player p)
+	{
+		Inventory toReturn = Bukkit.createInventory(null, inv_rows, inventory_name);
+		
+		Utils.createItem(inv, Material.COBBLESTONE, 1, slot(5,4), "Exit", "");
+		
+		Utils.createItem(inv, Material.ENCHANTMENT_TABLE, 1, slot(2,2), "&fCOMMON ENCHANTMENT", "&eCosts: 100 &dMagic Dust");
+		Utils.createItemByte(inv, Material.STAINED_GLASS_PANE, 1, 0, slot(2,1), "", "");
+		Utils.createItemByte(inv, Material.STAINED_GLASS_PANE, 1, 0, slot(2,3), "", "");
+		
+		Utils.createItem(inv, Material.ENCHANTMENT_TABLE, 1, slot(4,2), "&9EPIC ENCHANTMENT", "&eCosts: 100 &dMagic Dust");
+		Utils.createItemByte(inv, Material.STAINED_GLASS_PANE, 1, 11, slot(4,1), "", "");
+		Utils.createItemByte(inv, Material.STAINED_GLASS_PANE, 1, 11, slot(4,3), "", "");
+		
+		Utils.createItem(inv, Material.ENCHANTMENT_TABLE, 1, slot(6,2), "&6LEGENDARY ENCHANTMENT", "&eCosts: 100 &dMagic Dust");
+		Utils.createItemByte(inv, Material.STAINED_GLASS_PANE, 1, 1, slot(6,1), "", "");
+		Utils.createItemByte(inv, Material.STAINED_GLASS_PANE, 1, 1, slot(6,3), "", "");
+		
+		toReturn.setContents(inv.getContents());
+		return toReturn;
+		
+	}
+	
+	public static void clicked(Player p, int slot, ItemStack clicked, Inventory inv)
+	{
+		if(slot == slot(5,4) - 1)
+		{
+			p.closeInventory();
+			return;
+		}
+		if(slot == slot(2,2) - 1)
+		{
+			return;
+		}
+		if(slot == slot(4,2) - 1)
+		{
+			return;
+		}
+		if(slot == slot(6,2) - 1)
+		{
+			return;
+		}
+		
+	}
+	
+	private static int slot(int x,int y)
+	{
+		return y * 9 + x;
+	}
+	
+	
+}

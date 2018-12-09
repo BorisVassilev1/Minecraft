@@ -1,0 +1,6 @@
+{
+    "parent": "block/xray_all",
+    "textures": {
+        "all": "blocks/mushroom_block_skin_red"
+    }
+}

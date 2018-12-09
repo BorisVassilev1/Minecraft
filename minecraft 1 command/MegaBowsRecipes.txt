@@ -1,0 +1,8 @@
+Recipes:
+TNT Bow: 64*tnt, diamond block, bow
+Lava Bow: lava bucket, diamond block, bow
+Light Bow: 64*torch, diamond block, bow
+Ender Bow: 16*ended pearl, diamond block, bow
+Winter Bow: 64*packed ice, diamond block, bow
+Bow of Levitation: dragon head, diamond block, bow
+Mining Bow: diamond pick, diamond block, bow

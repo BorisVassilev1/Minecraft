@@ -1,0 +1,52 @@
+package org.CDnoMlqko.ChatUtils.events;
+
+import org.CDnoMlqko.ChatUtils.Main;
+import org.bukkit.Bukkit;
+import org.bukkit.entity.Player;
+import org.bukkit.event.EventHandler;
+import org.bukkit.event.Listener;
+import org.bukkit.event.inventory.InventoryClickEvent;
+
+public class InventoryClickListener implements Listener{
+	
+	Main plugin;
+	
+	public InventoryClickListener(Main plugin) {
+		this.plugin = plugin;
+		
+		Bukkit.getPluginManager().registerEvents(this, plugin);
+	}
+	
+	@EventHandler
+	public void onClick(InventoryClickEvent e)
+	{
+		String title = e.getInventory().getTitle();
+		e.getWhoClicked().sendMessage("you clicked on slot " + e.getInventory().getName());
+		//if(!title.equals(e.getWhoClicked().getInventory().getTitle()))
+		{
+			if(title.equals(Main.EnchantmentsMainMenu.inventory_name))
+			{
+				if(!Main.EnchantmentsMainMenu.canTheItemBeTaken(e.getSlot()))
+				{
+					e.setCancelled(true);
+				}
+				if(e.getCurrentItem() != null)
+				{
+					Main.EnchantmentsMainMenu.clicked((Player) e.getWhoClicked(), e.getSlot(), e.getCurrentItem(), e.getInventory());
+				}
+			}
+			if(title.equals(Main.commonEnchantmentMenu.inventory_name))
+			{
+				if(!Main.commonEnchantmentMenu.canTheItemBeTaken(e.getSlot()))
+				{
+					e.setCancelled(true);
+				}
+				if(e.getCurrentItem() != null)
+				{
+					Main.commonEnchantmentMenu.clicked((Player) e.getWhoClicked(), e.getSlot(), e.getCurrentItem(), e.getInventory());
+				}
+			}
+		}
+	}
+
+}

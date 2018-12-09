@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "xray/half_slab_dark_oak" },
+        "half=top": { "model": "xray/upper_slab_dark_oak" }
+    }
+}

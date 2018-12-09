@@ -1,0 +1,7 @@
+{
+    "parent": "block/xray_column",
+    "textures": {
+        "side": "blocks/mushroom_block_skin_stem",
+        "end": "blocks/mushroom_block_inside"
+    }
+}

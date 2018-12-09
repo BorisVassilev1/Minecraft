@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "xray/jungle_log" },
+        "axis=z":   { "model": "xray/jungle_log", "x": 90 },
+        "axis=x":   { "model": "xray/jungle_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "xray/jungle_bark" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "xray/blue_concrete_powder" },
+            { "model": "xray/blue_concrete_powder", "y": 90 },
+            { "model": "xray/blue_concrete_powder", "y": 180 },
+            { "model": "xray/blue_concrete_powder", "y": 270 }
+        ]
+    }
+}

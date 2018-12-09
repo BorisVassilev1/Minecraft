@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "xray/birch_log" },
+        "axis=z":   { "model": "xray/birch_log", "x": 90 },
+        "axis=x":   { "model": "xray/birch_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "xray/birch_bark" }
+    }
+}

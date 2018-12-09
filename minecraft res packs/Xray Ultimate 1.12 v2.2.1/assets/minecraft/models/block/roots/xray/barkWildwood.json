@@ -1,0 +1,7 @@
+{
+    "parent": "block/xray_all",
+    "textures": {
+        "all": "roots:blocks/barkWildwood",
+        "particle": "roots:blocks/barkWildwood"
+    }
+}

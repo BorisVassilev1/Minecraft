@@ -1,0 +1,12 @@
+package org.CDnoMlqko.ChatUtils.events;
+
+import org.CDnoMlqko.ChatUtils.Main;
+
+public class CustomEnchantmentTableHandler {
+	
+	Main plugin;
+	
+	public CustomEnchantmentTableHandler(Main plugin) {
+		
+	}
+}

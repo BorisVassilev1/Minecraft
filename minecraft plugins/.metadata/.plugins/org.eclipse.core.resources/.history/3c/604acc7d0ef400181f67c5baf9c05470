@@ -1,0 +1,18 @@
+package org.CDnoMlqko.ChatUtils.utils;
+
+import org.bukkit.ChatColor;
+import org.bukkit.inventory.ItemStack;
+
+public class Utils {
+	
+	public static String chat ( String s)
+	{
+		return ChatColor.translateAlternateColorCodes('&', s);
+	}
+	
+	public static ItemStack createItem()
+	{
+		
+	}
+	
+}

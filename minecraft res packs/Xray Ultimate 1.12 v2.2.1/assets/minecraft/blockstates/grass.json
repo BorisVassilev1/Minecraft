@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "snowy=false": 
+            { "model": "xray/grass_normal"},
+        "snowy=true":  { "model": "xray/grass_snowed" }
+    }
+}

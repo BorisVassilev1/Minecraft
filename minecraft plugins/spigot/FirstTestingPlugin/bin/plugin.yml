@@ -1,0 +1,16 @@
+name: FirstTestingPlugin
+version: 1.0
+author: CDnoMlqko
+main: org.CDnoMlqko.FirstTestingPlugin.Main
+description: My spigot testing plugin
+
+commands:
+  hello:
+   aliases: [hi]
+   description: Greets the player!
+  sphere:
+   aliases: [sph]
+   description: Creates a particle sphere!
+  particleeffect:
+   aliases: [pe]
+   description: Creates a cool particle effect!

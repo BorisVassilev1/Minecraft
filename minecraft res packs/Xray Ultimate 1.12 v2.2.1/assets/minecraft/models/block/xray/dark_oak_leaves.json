@@ -1,0 +1,6 @@
+{
+    "parent": "block/xray/leaves",
+    "textures": {
+        "all": "blocks/leaves_big_oak"
+    }
+}

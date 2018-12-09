@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "xray/stonebrick_normal" },
+        "all":    { "model": "xray/stonebrick_normal" }
+    }
+}

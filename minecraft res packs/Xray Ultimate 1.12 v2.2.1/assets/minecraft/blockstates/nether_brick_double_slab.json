@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "xray/nether_brick" },
+        "all":    { "model": "xray/nether_brick" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "xray/dirt" },
+            { "model": "xray/dirt", "y": 90 },
+            { "model": "xray/dirt", "y": 180 },
+            { "model": "xray/dirt", "y": 270 }
+        ]
+    }
+}

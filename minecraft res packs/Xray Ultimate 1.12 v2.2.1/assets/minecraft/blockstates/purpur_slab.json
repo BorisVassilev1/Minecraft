@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "xray/half_slab_purpur" },
+        "half=top,variant=default": { "model": "xray/upper_slab_purpur" }
+    }
+}

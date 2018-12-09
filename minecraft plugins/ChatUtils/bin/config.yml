@@ -1,0 +1,5 @@
+tpa_request: "&e<player> wants to teleport to you.Use &a/tpaccept &eto accept teleportation or &c/tpadecline &eto decline it."
+
+firstJoin_message: '&a<player> &7has joined the server for the first time!'
+
+join_message: '&e<player> &7has joined the server!'

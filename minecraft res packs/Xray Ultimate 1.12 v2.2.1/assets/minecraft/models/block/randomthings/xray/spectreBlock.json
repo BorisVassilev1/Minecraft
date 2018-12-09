@@ -1,0 +1,7 @@
+{
+    "parent": "block/xray_all",
+    "textures": 
+    {
+        "all": "randomthings:blocks/spectreBlock"
+    }
+}

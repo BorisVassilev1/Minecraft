@@ -1,0 +1,62 @@
+package org.CDnoMlqko.ChatUtils.commands.Tpa;
+
+import java.util.HashMap;
+
+import org.CDnoMlqko.ChatUtils.Main;
+import org.CDnoMlqko.ChatUtils.scoreboard.ScoreboardDataManager;
+import org.CDnoMlqko.ChatUtils.utils.Utils;
+import org.bukkit.Bukkit;
+import org.bukkit.command.Command;
+import org.bukkit.command.CommandExecutor;
+import org.bukkit.command.CommandSender;
+import org.bukkit.entity.Player;
+
+import net.md_5.bungee.api.chat.ClickEvent;
+import net.md_5.bungee.api.chat.ComponentBuilder;
+import net.md_5.bungee.api.chat.HoverEvent;
+import net.md_5.bungee.api.chat.TextComponent;
+public class TpaCommand implements CommandExecutor{
+
+	Main plugin;
+	
+	//public HashMap<String, Player> requests = new HashMap<String, Player>();
+	
+	
+	public TpaCommand(Main plugin) {
+		this.plugin = plugin;
+		plugin.getCommand("tpa").setExecutor(this);
+	}
+
+	@Override
+	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
+		if(sender instanceof Player)
+		{
+			Player reciever = Bukkit.getPlayer(args[0]);
+			if(ScoreboardDataManager.scoreboardData.get(reciever).hasTeleportationRequestPending)
+			{
+				reciever.sendMessage(Utils.chat(plugin.getConfig().getString("tpa_request").replace("<player>", sender.getName())));
+				TextComponent accept = new TextComponent(Utils.chat("&a[ACCEPT]"));
+				accept.setBold(true);
+				accept.setHoverEvent(new HoverEvent(HoverEvent.Action.SHOW_TEXT, new ComponentBuilder("Accept Teleportation Request").create()));
+				accept.setClickEvent(new ClickEvent(ClickEvent.Action.SUGGEST_COMMAND, "/tpaccept"));
+				
+				
+				TextComponent decline = new TextComponent(Utils.chat("&c[DENY]"));
+				decline.setBold(true);
+				decline.setHoverEvent(new HoverEvent(HoverEvent.Action.SHOW_TEXT, new ComponentBuilder("Decline Teleportation Request").create()));
+				decline.setClickEvent(new ClickEvent(ClickEvent.Action.SUGGEST_COMMAND, "/tpadecline"));
+				
+				reciever.spigot().sendMessage(accept,new TextComponent(" "), decline);
+				
+				ScoreboardDataManager.scoreboardData.get(reciever.getName()).setTeleportationRequest((Player) sender);;
+				
+				return true;
+			}
+			
+			sender.sendMessage(Utils.chat(reciever.getName() + " &fhas another teleportation request pending! Try again later!"));
+			return false;
+		}
+		sender.sendMessage("You have to be a player to use this command!");
+		return false;
+	}
+}

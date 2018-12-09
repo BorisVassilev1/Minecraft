@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=default": { "model": "xray/purpur_block" }
+    }
+}

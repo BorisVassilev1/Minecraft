@@ -1,0 +1,6 @@
+{
+    "parent": "block/xray/xray_all",
+    "textures": {
+        "all": "blocks/end_stone"
+    }
+}

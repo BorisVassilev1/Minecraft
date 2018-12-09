@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "xray/red_sand" },
+            { "model": "xray/red_sand", "y": 90 },
+            { "model": "xray/red_sand", "y": 180 },
+            { "model": "xray/red_sand", "y": 270 }
+        ]
+    }
+}

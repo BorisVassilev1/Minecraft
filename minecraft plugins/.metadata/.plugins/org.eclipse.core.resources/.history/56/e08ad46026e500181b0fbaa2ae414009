@@ -1,0 +1,46 @@
+package org.CDnoMlqko.ChatUtils.commands;
+
+import org.CDnoMlqko.ChatUtils.Main;
+import org.CDnoMlqko.ChatUtils.utils.Utils;
+import org.bukkit.Bukkit;
+import org.bukkit.command.Command;
+import org.bukkit.command.CommandExecutor;
+import org.bukkit.command.CommandSender;
+import org.bukkit.entity.Player;
+
+import net.md_5.bungee.api.chat.ClickEvent;
+import net.md_5.bungee.api.chat.ComponentBuilder;
+import net.md_5.bungee.api.chat.HoverEvent;
+import net.md_5.bungee.api.chat.TextComponent;
+public class TpaCommand implements CommandExecutor{
+
+	Main plugin;
+	
+	public TpaCommand(Main plugin) {
+		this.plugin = plugin;
+		plugin.getCommand("tpa").setExecutor(this);
+	}
+
+	@Override
+	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
+		if(sender instanceof Player)
+		{
+			Player reciever = Bukkit.getPlayer(args[0]);
+			reciever.sendMessage(Utils.chat(plugin.getConfig().getString("tpa_request").replace("<player>", sender.getName())));
+			TextComponent accept = new TextComponent("[ACCEPT]");
+			accept.setBold(true);
+			accept.setHoverEvent(new HoverEvent(HoverEvent.Action.SHOW_TEXT, new ComponentBuilder("text").create()));
+			accept.setClickEvent(new ClickEvent(ClickEvent.Action.RUN_COMMAND, "/tp " + sender.getName() + " " + reciever.getName()));
+			
+			TextComponent decline = new TextComponent("[DECLINE]");
+			decline.setBold(true);
+			decline.setHoverEvent(new HoverEvent(HoverEvent.Action.SHOW_TEXT, new ComponentBuilder("text").create()));
+			decline.setClickEvent(new ClickEvent(ClickEvent.Action.RUN_COMMAND, "/msg " + reciever.getName() + " has declined your request." ));
+			
+			reciever.spigot().sendMessage(accept, decline);
+			
+			return true;
+		}
+		return false;
+	}
+}

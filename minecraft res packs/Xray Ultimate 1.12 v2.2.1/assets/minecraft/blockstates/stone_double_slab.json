@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "xray/double_stone" },
+        "all":    { "model": "xray/double_stone_top" }
+    }
+}

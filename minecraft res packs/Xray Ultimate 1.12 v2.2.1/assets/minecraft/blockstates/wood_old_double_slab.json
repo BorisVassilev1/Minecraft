@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "xray/oak_planks" },
+        "all":    { "model": "xray/oak_planks" }
+    }
+}

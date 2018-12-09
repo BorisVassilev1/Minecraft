@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "xray/quartz_normal" },
+        "all":    { "model": "xray/quartz_top" }
+    }
+}

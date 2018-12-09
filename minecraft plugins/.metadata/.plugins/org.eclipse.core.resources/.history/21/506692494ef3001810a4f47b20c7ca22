@@ -1,0 +1,47 @@
+package org.CDnoMlqko.ChatUtils.enchantments;
+
+import java.lang.reflect.Field;
+
+import org.CDnoMlqko.ChatUtils.Main;
+import org.bukkit.enchantments.Enchantment;
+
+public class EnchantmentsManager {
+
+	public LevitationEnchantment levitationEnchantment;
+	public LightningEnchantment lightningEnchantment;
+	
+	Main plugin;
+	
+	public EnchantmentsManager(Main plugin) {
+		this.plugin = plugin;
+		levitationEnchantment = new LevitationEnchantment(120,plugin);
+		lightningEnchantment = new LightningEnchantment(120, plugin);
+		registerEnchantment(levitationEnchantment);
+		registerEnchantment(lightningEnchantment);
+	}
+
+	public void registerEnchantment(Enchantment ench) {
+		try {
+			try {
+				Field f = Enchantment.class.getDeclaredField("acceptingNew");
+				f.setAccessible(true);
+				f.set(null, true);
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+			try {
+				Enchantment.registerEnchantment(ench);
+			} catch (IllegalArgumentException e) {
+				// if this is thrown it means the id is already taken.
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public void prepareForReload() {
+		levitationEnchantment.prepareForReload();
+		lightningEnchantment.prepareForReload();
+		
+	}
+}

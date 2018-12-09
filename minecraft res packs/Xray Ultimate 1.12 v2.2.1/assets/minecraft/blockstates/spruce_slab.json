@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "xray/half_slab_spruce" },
+        "half=top": { "model": "xray/upper_slab_spruce" }
+    }
+}
