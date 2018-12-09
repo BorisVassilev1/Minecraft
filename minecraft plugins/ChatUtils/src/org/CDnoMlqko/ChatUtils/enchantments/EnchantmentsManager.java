@@ -46,4 +46,9 @@ public class EnchantmentsManager implements Listener{
 		levitationEnchantment.prepareForReload();
 		lightningEnchantment.prepareForReload();
 	}
+	
+	public void addRandomCustomEnchatment()
+	{
+		
+	}
 }

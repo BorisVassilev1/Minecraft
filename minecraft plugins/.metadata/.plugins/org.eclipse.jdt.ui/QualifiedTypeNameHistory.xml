@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.CDnoMlqko.ChatUtils.commands.money.GiveMoneyCommand"/>
-<fullyQualifiedTypeName name="org.bukkit.event.entity.PlayerDeathEvent"/>
 <fullyQualifiedTypeName name="org.CDnoMlqko.ChatUtils.scoreboard.ScoreboardDataContainer"/>
 <fullyQualifiedTypeName name="org.apache.commons.io.filefilter.DelegateFileFilter"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
@@ -41,7 +39,6 @@
 <fullyQualifiedTypeName name="org.bukkit.inventory.Inventory"/>
 <fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
 <fullyQualifiedTypeName name="org.bukkit.event.Listener"/>
-<fullyQualifiedTypeName name="org.bukkit.Bukkit"/>
 <fullyQualifiedTypeName name="org.bukkit.event.EventHandler"/>
 <fullyQualifiedTypeName name="org.CDnoMlqko.ChatUtils.events.InventoryClickListener"/>
 <fullyQualifiedTypeName name="org.CDnoMlqko.ChatUtils.events.CustomEnchantmentTableHandler"/>
@@ -57,7 +54,10 @@
 <fullyQualifiedTypeName name="org.CDnoMlqko.ChatUtils.commands.currencies.magicdust.GiveMagicDustCommand"/>
 <fullyQualifiedTypeName name="org.CDnoMlqko.ChatUtils.ui.customEnchantments.EpicEnchantmentMenu"/>
 <fullyQualifiedTypeName name="org.CDnoMlqko.ChatUtils.ui.customEnchantments.LegendaryEnchantmentMenu"/>
-<fullyQualifiedTypeName name="org.CDnoMlqko.ChatUtils.Main"/>
-<fullyQualifiedTypeName name="org.bukkit.enchantments.Enchantment"/>
 <fullyQualifiedTypeName name="org.bukkit.inventory.meta.EnchantmentStorageMeta"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="org.bukkit.Bukkit"/>
+<fullyQualifiedTypeName name="org.CDnoMlqko.ChatUtils.enchantments.CustomEnchantmentRarity"/>
+<fullyQualifiedTypeName name="org.bukkit.enchantments.Enchantment"/>
+<fullyQualifiedTypeName name="org.CDnoMlqko.ChatUtils.Main"/>
 </qualifiedTypeNameHistroy>

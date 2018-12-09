@@ -1,0 +1,28 @@
+package org.CDnoMlqko.ChatUtils.enchantments;
+
+import org.bukkit.enchantments.Enchantment;
+
+public enum CustomEnchantmentRarity {
+	
+	COMMON(
+			new int[]   {},
+			new float[] {}),
+	EPIC(
+			new int[]   {},
+			new float[] {}),
+	LEGENDARY(
+			new int[]   {},
+			new float[] {});
+	
+	Enchantment[] enchantmentsPoll;
+	float[] rarities;
+	
+	private CustomEnchantmentRarity(int[] ids, float[] rarities) {
+		this.enchantmentsPoll = new Enchantment[ids.length];
+		for(int i = 0; i < ids.length; i ++)
+		{
+			enchantmentsPoll[i] = Enchantment.getById(ids[i]);
+		}
+	}
+
+}

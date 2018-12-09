@@ -1,0 +1,13 @@
+package org.CDnoMlqko.ChatUtils.enchantments;
+
+public enum CustomEnchantmentRarity {
+	
+	COMMON,
+	EPIC,
+	LEGENDARY;
+	
+	private CustomEnchantmentRarity(int[] ids, float[] rarities) {
+		
+	}
+
+}

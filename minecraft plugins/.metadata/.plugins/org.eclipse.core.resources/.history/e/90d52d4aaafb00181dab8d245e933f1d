@@ -55,10 +55,6 @@ public class CommonEnchantmentMenu extends InventoryGUI{
 		{
 			p.openInventory(Main.EnchantmentsMainMenu.GUI(p));
 		}
-		else if(slot == slot(6,5))
-		{
-			
-		}
 	}
 
 	@Override

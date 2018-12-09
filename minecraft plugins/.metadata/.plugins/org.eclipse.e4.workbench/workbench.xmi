@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_7ZP_kPlBEeishru5ST1xrg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_7ZP_kflBEeishru5ST1xrg" bindingContexts="_7ZR0wvlBEeishru5ST1xrg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ScoreboardDataContainer.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/scoreboard/ScoreboardDataContainer.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/scoreboard/ScoreboardDataContainer.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CustomEnchantments.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/CustomEnchantments.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/CustomEnchantments.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LevitationEnchantment.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/LevitationEnchantment.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/LevitationEnchantment.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EnchantmentsManager.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/EnchantmentsManager.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/EnchantmentsManager.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LightningEnchantment.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/LightningEnchantment.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/LightningEnchantment.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LegendaryEnchantmentMenu.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/LegendaryEnchantmentMenu.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/LegendaryEnchantmentMenu.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EnchantmentsMainMenu.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/EnchantmentsMainMenu.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/EnchantmentsMainMenu.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;InventoryClickListener.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/events/InventoryClickListener.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/events/InventoryClickListener.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MobKillListener.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/events/MobKillListener.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/events/MobKillListener.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EpicEnchantmentMenu.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/EpicEnchantmentMenu.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/EpicEnchantmentMenu.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Utils.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/utils/Utils.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/utils/Utils.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CommonEnchantmentMenu.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/CommonEnchantmentMenu.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/CommonEnchantmentMenu.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;InventoryGUI.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/InventoryGUI.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/InventoryGUI.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;plugin.yml&quot; tooltip=&quot;ChatUtils/src/plugin.yml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/plugin.yml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CustomEnchantmentRarity.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/CustomEnchantmentRarity.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/CustomEnchantmentRarity.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EnchantmentsManager.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/EnchantmentsManager.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/EnchantmentsManager.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Utils.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/utils/Utils.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/utils/Utils.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LightningEnchantment.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/LightningEnchantment.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/LightningEnchantment.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LevitationEnchantment.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/LevitationEnchantment.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/LevitationEnchantment.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DeathListener.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/events/DeathListener.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/events/DeathListener.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CustomEnchantmentsRarity.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/CustomEnchantmentsRarity.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/CustomEnchantmentsRarity.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CommonEnchantmentMenu.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/CommonEnchantmentMenu.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/CommonEnchantmentMenu.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EnchantmentsMainMenu.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/EnchantmentsMainMenu.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/EnchantmentsMainMenu.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EpicEnchantmentMenu.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/EpicEnchantmentMenu.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/EpicEnchantmentMenu.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ScoreboardDataContainer.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/scoreboard/ScoreboardDataContainer.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/scoreboard/ScoreboardDataContainer.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CustomEnchantments.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/CustomEnchantments.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/CustomEnchantments.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LegendaryEnchantmentMenu.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/LegendaryEnchantmentMenu.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/LegendaryEnchantmentMenu.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;InventoryClickListener.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/events/InventoryClickListener.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/events/InventoryClickListener.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_7ZP_kflBEeishru5ST1xrg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_7ZP_kvlBEeishru5ST1xrg" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
@@ -153,11 +153,10 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_7ZQnbflBEeishru5ST1xrg" elementId="org.eclipse.ui.editorss" selectedElement="_7ZQnbvlBEeishru5ST1xrg">
-      <children xsi:type="basic:PartStack" xmi:id="_7ZQnbvlBEeishru5ST1xrg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_7ZQng_lBEeishru5ST1xrg">
+      <children xsi:type="basic:PartStack" xmi:id="_7ZQnbvlBEeishru5ST1xrg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_3nNHwPumEeiPeYX61TbqqQ">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
-        <tags>noFocus</tags>
         <children xsi:type="basic:Part" xmi:id="_7ZQnb_lBEeishru5ST1xrg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Main.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; partName=&quot;Main.java&quot; title=&quot;Main.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/Main.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/Main.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;3181&quot; selectionTopPixel=&quot;250&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -197,13 +196,13 @@
           </menus>
         </children>
         <children xsi:type="basic:Part" xmi:id="_7ZQndvlBEeishru5ST1xrg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CommonEnchantmentMenu.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CommonEnchantmentMenu.java&quot; partName=&quot;CommonEnchantmentMenu.java&quot; title=&quot;CommonEnchantmentMenu.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/CommonEnchantmentMenu.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/CommonEnchantmentMenu.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1880&quot; selectionTopPixel=&quot;45&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CommonEnchantmentMenu.java&quot; partName=&quot;CommonEnchantmentMenu.java&quot; title=&quot;CommonEnchantmentMenu.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/CommonEnchantmentMenu.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/CommonEnchantmentMenu.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2889&quot; selectionTopPixel=&quot;220&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_7ZQnd_lBEeishru5ST1xrg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="EnchantmentsMainMenu.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EnchantmentsMainMenu.java&quot; partName=&quot;EnchantmentsMainMenu.java&quot; title=&quot;EnchantmentsMainMenu.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/EnchantmentsMainMenu.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/EnchantmentsMainMenu.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2950&quot; selectionTopPixel=&quot;450&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EnchantmentsMainMenu.java&quot; partName=&quot;EnchantmentsMainMenu.java&quot; title=&quot;EnchantmentsMainMenu.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/EnchantmentsMainMenu.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/ui/customEnchantments/EnchantmentsMainMenu.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2950&quot; selectionTopPixel=&quot;490&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -215,7 +214,7 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_7ZQneflBEeishru5ST1xrg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Utils.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Utils.java&quot; partName=&quot;Utils.java&quot; title=&quot;Utils.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/utils/Utils.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/utils/Utils.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1291&quot; selectionTopPixel=&quot;160&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Utils.java&quot; partName=&quot;Utils.java&quot; title=&quot;Utils.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/utils/Utils.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/utils/Utils.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1291&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -239,13 +238,13 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_7ZQnfflBEeishru5ST1xrg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="EnchantmentsManager.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EnchantmentsManager.java&quot; partName=&quot;EnchantmentsManager.java&quot; title=&quot;EnchantmentsManager.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/EnchantmentsManager.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/EnchantmentsManager.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1071&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EnchantmentsManager.java&quot; partName=&quot;EnchantmentsManager.java&quot; title=&quot;EnchantmentsManager.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/EnchantmentsManager.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/EnchantmentsManager.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1422&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_7ZQnfvlBEeishru5ST1xrg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="LevitationEnchantment.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LevitationEnchantment.java&quot; partName=&quot;LevitationEnchantment.java&quot; title=&quot;LevitationEnchantment.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/LevitationEnchantment.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/LevitationEnchantment.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1316&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;LevitationEnchantment.java&quot; partName=&quot;LevitationEnchantment.java&quot; title=&quot;LevitationEnchantment.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/LevitationEnchantment.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/LevitationEnchantment.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2395&quot; selectionTopPixel=&quot;775&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -277,7 +276,6 @@
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
-          <tags>active</tags>
           <menus xsi:type="menu:PopupMenu" xmi:id="_7ZQnhPlBEeishru5ST1xrg" elementId="#CompilationUnitEditorContext">
             <tags>menuContribution:popup</tags>
             <tags>popup:#CompilationUnitEditorContext</tags>
@@ -294,6 +292,20 @@
             <tags>menuContribution:popup</tags>
             <tags>popup:#OverviewRulerContext</tags>
           </menus>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_3nNHwPumEeiPeYX61TbqqQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CustomEnchantmentRarity.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CustomEnchantmentRarity.java&quot; partName=&quot;CustomEnchantmentRarity.java&quot; title=&quot;CustomEnchantmentRarity.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/CustomEnchantmentRarity.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/enchantments/CustomEnchantmentRarity.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;340&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_3WAYIPuoEeiPeYX61TbqqQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="DeathListener.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DeathListener.java&quot; partName=&quot;DeathListener.java&quot; title=&quot;DeathListener.java&quot; tooltip=&quot;ChatUtils/src/org/CDnoMlqko/ChatUtils/events/DeathListener.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ChatUtils/src/org/CDnoMlqko/ChatUtils/events/DeathListener.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
@@ -366,7 +378,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_7ZQnsPlBEeishru5ST1xrg" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.markers.ProblemsView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.ide"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Errors&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Errors&quot;/>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Warnings&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_7ZQnsflBEeishru5ST1xrg" elementId="org.eclipse.ui.views.ProblemView">
@@ -827,43 +839,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7ZRNtvlBEeishru5ST1xrg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRNt_lBEeishru5ST1xrg" elementId="new.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRNuPlBEeishru5ST1xrg" elementId="newWizardDropDown">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRNuflBEeishru5ST1xrg" elementId="new.ext" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRNuvlBEeishru5ST1xrg" elementId="save.group" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRNu_lBEeishru5ST1xrg" elementId="save">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRNvPlBEeishru5ST1xrg" elementId="saveAll">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRNvflBEeishru5ST1xrg" elementId="save.ext" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_7ZRNvvlBEeishru5ST1xrg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_7ZTqSPlBEeishru5ST1xrg"/>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRNv_lBEeishru5ST1xrg" elementId="print.ext" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRNwPlBEeishru5ST1xrg" elementId="build.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRNwflBEeishru5ST1xrg" elementId="build.ext" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRNwvlBEeishru5ST1xrg" elementId="additions">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRNw_lBEeishru5ST1xrg" elementId="org.eclipse.wb.core.wizards.actions.NewDesignerTypeDropDownAction">
-          <tags>Opaque</tags>
-        </children>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_VH8eQPumEeiPeYX61TbqqQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_7ZTqSPlBEeishru5ST1xrg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7ZRNxPlBEeishru5ST1xrg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -871,78 +847,15 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7ZRN9vlBEeishru5ST1xrg" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRN9_lBEeishru5ST1xrg" elementId="debug">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRN-PlBEeishru5ST1xrg" elementId="org.eclipse.debug.internal.ui.actions.DebugDropDownAction">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRN-flBEeishru5ST1xrg" elementId="org.eclipse.debug.internal.ui.actions.RunDropDownAction">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRN-vlBEeishru5ST1xrg" elementId="org.eclipse.eclemma.ui.actions.CoverageDropDownAction">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRN-_lBEeishru5ST1xrg" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7ZRN_PlBEeishru5ST1xrg" elementId="org.eclipse.jdt.ui.JavaElementCreationActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRN_flBEeishru5ST1xrg" elementId="JavaWizards">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRN_vlBEeishru5ST1xrg" elementId="org.eclipse.jdt.ui.actions.OpenProjectWizard" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRN__lBEeishru5ST1xrg" elementId="org.eclipse.jdt.ui.actions.OpenPackageWizard">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROAPlBEeishru5ST1xrg" elementId="org.eclipse.jdt.ui.actions.NewTypeDropDown">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7ZROAflBEeishru5ST1xrg" elementId="org.eclipse.search.searchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROAvlBEeishru5ST1xrg" elementId="Search">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROA_lBEeishru5ST1xrg" elementId="openType">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROBPlBEeishru5ST1xrg" elementId="org.eclipse.mylyn.tasks.ui.openTask">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROBflBEeishru5ST1xrg" elementId="org.eclipse.search.OpenSearchDialogPage">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7ZROBvlBEeishru5ST1xrg" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROB_lBEeishru5ST1xrg" elementId="Presentation">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROCPlBEeishru5ST1xrg" elementId="org.eclipse.jdt.ui.edit.text.java.toggleBreadcrumb">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROCflBEeishru5ST1xrg" elementId="org.eclipse.jdt.ui.edit.text.java.toggleMarkOccurrences">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROCvlBEeishru5ST1xrg" elementId="org.eclipse.mylyn.java.ui.editor.folding.auto">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROC_lBEeishru5ST1xrg" elementId="org.eclipse.ui.edit.text.toggleWordWrap">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRODPlBEeishru5ST1xrg" elementId="org.eclipse.ui.edit.text.toggleBlockSelectionMode">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRODflBEeishru5ST1xrg" elementId="org.eclipse.ui.edit.text.toggleShowWhitespaceCharacters">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZRODvlBEeishru5ST1xrg" elementId="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly" visible="false">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7ZROD_lBEeishru5ST1xrg" elementId="group.nav" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -950,34 +863,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7ZROEflBEeishru5ST1xrg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROEvlBEeishru5ST1xrg" elementId="history.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROE_lBEeishru5ST1xrg" elementId="group.application" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROFPlBEeishru5ST1xrg" elementId="backardHistory">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROFflBEeishru5ST1xrg" elementId="forwardHistory">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROFvlBEeishru5ST1xrg" elementId="pin.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_7ZROF_lBEeishru5ST1xrg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_7ZTp_PlBEeishru5ST1xrg"/>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROGPlBEeishru5ST1xrg" elementId="org.eclipse.ui.edit.text.gotoNextAnnotation">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROGflBEeishru5ST1xrg" elementId="org.eclipse.ui.edit.text.gotoPreviousAnnotation">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROGvlBEeishru5ST1xrg" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition">
-          <tags>Opaque</tags>
-        </children>
-      </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_7ZROG_lBEeishru5ST1xrg" elementId="org.eclipse.jdt.ui.CompilationUnitEditor" visible="false">
-        <tags>Draggable</tags>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_VH-TcPumEeiPeYX61TbqqQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_7ZTp_PlBEeishru5ST1xrg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7ZROHPlBEeishru5ST1xrg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -989,12 +875,6 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7ZROIPlBEeishru5ST1xrg" elementId="org.eclipse.ui.workbench.help" visible="false">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROIflBEeishru5ST1xrg" elementId="group.help">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_7ZROIvlBEeishru5ST1xrg" elementId="group.application" visible="false">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_7ZROI_lBEeishru5ST1xrg" elementId="PerspectiveSpacer" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
         <tags>stretch</tags>
@@ -2097,6 +1977,23 @@
     <tags>View</tags>
     <tags>categoryTag:WindowBuilder</tags>
   </descriptors>
+  <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
+    <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+      <tags>glue</tags>
+      <tags>move_after:PerspectiveSpacer</tags>
+      <tags>SHOW_RESTORE_MENU</tags>
+    </children>
+    <children xsi:type="menu:ToolControl" xmi:id="_8tJPcF9tEeO-yojH_y4TJA" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
+      <tags>move_after:Spacer Glue</tags>
+      <tags>HIDEABLE</tags>
+      <tags>SHOW_RESTORE_MENU</tags>
+    </children>
+    <children xsi:type="menu:ToolControl" xmi:id="_9LgmcF9tEeO-yojH_y4TJA" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+      <tags>glue</tags>
+      <tags>move_after:SearchField</tags>
+      <tags>SHOW_RESTORE_MENU</tags>
+    </children>
+  </trimContributions>
   <commands xmi:id="_7ZSebvlBEeishru5ST1xrg" elementId="org.eclipse.ui.window.customizePerspective" contributorURI="platform:/plugin/org.eclipse.platform"/>
   <commands xmi:id="_7ZSeb_lBEeishru5ST1xrg" elementId="org.eclipse.jdt.ui.correction.inlineLocal.assist" commandName="Quick Assist - Inline local variable" description="Invokes quick assist and selects 'Inline local variable'" category="_7ZTrmvlBEeishru5ST1xrg"/>
   <commands xmi:id="_7ZSecPlBEeishru5ST1xrg" elementId="org.eclipse.linuxtools.vagrant.ui.commands.refreshBoxes" commandName="Refresh Boxes" description="Refresh selected Boxes" category="_7ZTrn_lBEeishru5ST1xrg"/>
